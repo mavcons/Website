@@ -78,7 +78,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             /* <![CDATA[ */
             var rcewpp = {
                 "ajax_url":"http://localhost/FirstWebsite/wp-admin/admin-ajax.php",
-                "nonce": "b61e8a2f1a",
+                "nonce": "506ec64a1b",
                 "home_url": "http://localhost/FirstWebsite/",
                 "settings_icon": 'http://localhost/FirstWebsite/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
                 "settings_hover_icon": 'http://localhost/FirstWebsite/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
